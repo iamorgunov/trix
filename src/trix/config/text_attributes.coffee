@@ -21,5 +21,8 @@ Trix.config.textAttributes =
   strike:
     tagName: "del"
     inheritable: true
+  heading2:
+    tagName: "h2"
+    inheritable: true
   frozen:
     style: { "backgroundColor": "highlight" }

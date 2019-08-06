@@ -16,6 +16,7 @@ Trix.config.lang =
   redo: "Redo"
   remove: "Remove"
   strike: "Strikethrough"
+  heading2: "Heading 2"
   undo: "Undo"
   unlink: "Unlink"
   url: "URL"
