@@ -6,7 +6,7 @@ require "trix/version"
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
   s.name        = "trix"
-  s.version     = "2.0.0"
+  s.version     = "2.0.1"
   s.summary     = "Trix"
   s.description = "Trix"
   s.license     = "MIT"
