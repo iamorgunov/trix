@@ -10,6 +10,9 @@ Gem::Specification.new do |s|
   s.summary     = "Trix"
   s.description = "Trix"
   s.license     = "MIT"
+  s.authors     = ["BASECAMP LLC"]
+  s.email       = ["qwsqwsqwsw@sqwsqws.com"]
+  s.homepage    = "http://github.com/aiman86/doorkeeper_scopes_per_flow"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
